@@ -11,3 +11,4 @@
 # Allow valid list folder (PDFs)
 !valid list/
 !valid list/**
+!README.md
