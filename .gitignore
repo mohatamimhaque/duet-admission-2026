@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# Allow gitignore itself
+!.gitignore
+
+# Allow duet-seat-plan project
+!duet-seat-plan/
+!duet-seat-plan/**
+
+# Allow valid list folder (PDFs)
+!valid list/
+!valid list/**
